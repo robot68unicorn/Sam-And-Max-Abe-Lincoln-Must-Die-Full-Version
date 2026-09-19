@@ -240,4 +240,4 @@ This repository serves as the official landing page for Sam & Max: Abe Lincoln M
 **Get the most recent version of Sam & Max: Abe Lincoln Must Die! today!**
 
 ---
-**Last updated:** 2026-09-19 19:48:20 UTC
+**Last updated:** 2026-09-19 21:58:25 UTC
